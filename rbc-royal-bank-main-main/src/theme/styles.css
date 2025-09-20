@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;900&family=Poppins:wght@200;300;400;500;600;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@media (min-width: 200px) and (max-width: 300px) {
+  .nice-dates-popover {
+    max-width: 260px !important;
+  }
+}
+
+@media (min-width: 301px) and (max-width: 400px) {
+  .nice-dates-popover {
+    max-width: 290px !important;
+  }
+}
+
+@media (min-width: 401px) and (max-width: 600px) {
+  .nice-dates-popover {
+    max-width: 380px !important;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 800px) {
+  .nice-dates-popover {
+    max-width: 380px !important;
+  }
+}
